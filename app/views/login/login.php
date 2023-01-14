@@ -22,7 +22,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <b>Bu</b>Kita
+    <b>Go</b>Book
   </div>
   <!-- /.login-logo -->
   <div class="card">
