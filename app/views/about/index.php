@@ -39,7 +39,7 @@
             </li>
             <li class="list-group-item">
               <strong><i class="fas fa-pencil-alt mr-1"></i> Email</strong>
-              <a class="float-right" href="roesdjyghany@gmail.com"> roesdjyghany@gmail.com </a>
+              <a class="float-right"> roesdjyghany@gmail.com </a>
             </li>
             <li class="list-group-item">
               <strong><i class="fas fa-pencil-alt mr-1"></i> My Github</strong>
