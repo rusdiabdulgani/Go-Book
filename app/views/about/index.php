@@ -35,7 +35,7 @@
             </li>
             <li class="list-group-item">
               <strong><i class="fas fa-pencil-alt mr-1"></i> Skills</strong>
-              <a class="float-right"> Design, Coding, PHP, Laravel </a>
+              <a class="float-right"> Design, Coding, PHP, Codeigniter </a>
             </li>
             <li class="list-group-item">
               <strong><i class="fas fa-pencil-alt mr-1"></i> Email</strong>
